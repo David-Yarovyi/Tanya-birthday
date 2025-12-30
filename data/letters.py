@@ -9,10 +9,10 @@ LETTERS = {
             } ,
             "nephew": {
                 'text' : 'Поздравление от Давида:',
-                'voice' : 'data/voices/father.ogg'
+                'voice' : 'data/voices/nephew.ogg'
             } ,
             "grandma": {
                 'text' : 'Поздравление от Мамы:',
-                'voice' : 'data/voices/father.ogg'
+                'voice' : 'data/voices/grandma.ogg'
             } 
 }
