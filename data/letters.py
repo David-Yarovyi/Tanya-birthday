@@ -1,7 +1,7 @@
 LETTERS = {
             "mom": {
                 'text' : 'Поздравление от Светы:',
-                'voice' : 'data/voices/father.ogg'
+                'voice' : 'data/voices/mom.ogg'
             } ,
              "dad": {
                 'text' : 'Поздравление от Леши:',
